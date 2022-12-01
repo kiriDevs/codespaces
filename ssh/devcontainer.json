@@ -1,5 +1,5 @@
 {
-	"name": "kiriDevs/codespaces: Headless",
+	"name": "kiriDevs/codespaces: ssh",
 
 	"build": {
 		"dockerfile": "./Dockerfile",
