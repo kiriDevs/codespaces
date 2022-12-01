@@ -21,4 +21,4 @@ This image does **not** contain any specialised tools (e.g. package managers, bu
 
 Argument | Default | Description
 --- | --- | ---
-`nvimTag` | `stable` | The `git` tag of the desired `neovim` version (see list at https://github.com/neovim/neovim)
+`nvimTag` | `stable` | The `git` tag of the desired `neovim` version (see list at https://github.com/neovim/neovim/tags)
