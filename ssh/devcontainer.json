@@ -1,0 +1,19 @@
+{
+	"name": "kiriDevs/codespaces: Headless",
+
+	"build": {
+		"dockerfile": "./Dockerfile",
+		"args": {
+			"nvimTag": "stable"
+		}
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/github-cli:1": {},
+		"ghcr.io/devcontainers/features/sshd:1": {}
+	},
+
+	"forwardPorts": [],
+	"customizations": {},
+
+	"remoteUser": "root"
+}
