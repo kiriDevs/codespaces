@@ -1,0 +1,20 @@
+{
+	"name": "kiriDevs/codespaces: tex",
+
+	"build": {
+		"dockerfile": "./Dockerfile",
+		"args": {}
+	},
+	"features": {},
+
+	"forwardPorts": [],
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"James-Yu.latex-workshop"
+			]
+		}
+	},
+
+	"remoteUser": "root"
+}
