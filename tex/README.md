@@ -17,7 +17,7 @@ This image does **not** contain any specialised tools (e.g. package managers, bu
 - SSH Server (pkg: `openssh`)
 - Terminal Editor: NeoVim (`nvim` pkg: `neovim`)
 - TeX-Live: Base installation (pkg: `texlive`)
-  - Dependencies for `latexindent` that are missing by default
+  - + Dependencies for `latexindent` that are missing by default
 
 ### VSCode Extensions
 
