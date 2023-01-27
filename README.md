@@ -21,6 +21,7 @@ If you want to, you can send your tailored configs back as a PR into this repo f
 This is a list of all currently contained images, combined with a short description of their use case.
 
 - [`ssh` - A template container for terminal-based development via SSH](/ssh/README.md)
+- [`tex` - An Alpine container ready for compiling (and writing) (La)TeX documents](/ssh/README.md)
 
 ## 3. Contributors
 
@@ -28,4 +29,5 @@ These is everyone who contributed to this repository, grouped by what image(s) t
 
 Image Name | Contributor(s)
 --- | ---
-`ssh` | @kiriDevs
+`ssh` | @kiriDevs
+`tex` | @kiriDevs
