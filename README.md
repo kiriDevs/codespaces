@@ -20,8 +20,8 @@ If you want to, you can send your tailored configs back as a PR into this repo f
 
 This is a list of all currently contained images, combined with a short description of their use case.
 
-- [`ssh` - A template container for terminal-based development via SSH](/ssh/README.md)
-- [`tex` - An Alpine container ready for compiling (and writing) (La)TeX documents](/ssh/README.md)
+- [`ssh` - A template container for terminal-based development via SSH](/ssh/)
+- [`tex` - An Alpine container ready for compiling (and writing) (La)TeX documents](/ssh/)
 
 ## 3. Contributors
 
